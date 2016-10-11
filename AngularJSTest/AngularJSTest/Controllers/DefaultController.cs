@@ -11,6 +11,7 @@ namespace AngularJSTest.Controllers
         // GET: Default
         public ActionResult Index()
         {
+            //test
             return View();
         }
     }
