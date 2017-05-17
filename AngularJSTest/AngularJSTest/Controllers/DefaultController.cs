@@ -12,7 +12,7 @@ namespace AngularJSTest.Controllers
         public ActionResult Index()
         {
             //test
-            return View();
+            return View(); 
         }
     }
 }
